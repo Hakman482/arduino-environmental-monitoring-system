@@ -7,7 +7,7 @@ An Arduino Mega-based embedded environmental monitoring system that measures tem
 ## Demo
 
 <p align="center">
-  <img src="videos/mydemo.gif" width="700">
+  <img src="videos/demo.gif" width="700">
 </p>
 ---
 
